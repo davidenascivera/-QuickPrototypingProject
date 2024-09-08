@@ -10,4 +10,6 @@ The project provides a foundation for learning mechanics, electronics, and IoT c
 
 Watch the project demo video here: [Project Demo](https://youtu.be/ldJ6wMqDw1U)
 
+In addition to the main project, other files and exercises used in class are also included.
+
 For more details, please refer to the accompanying document.
