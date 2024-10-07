@@ -8,7 +8,11 @@ The original goal of this project was to develop a full robotic arm, but testing
 
 The project provides a foundation for learning mechanics, electronics, and IoT concepts, and it is flexible for future expansion and improvements.
 
-Watch the project demo video here: [Project Demo](https://youtu.be/ldJ6wMqDw1U)
+## Project Demo
+
+[![Watch the Project Demo](https://img.youtube.com/vi/ldJ6wMqDw1U/0.jpg)](https://youtu.be/ldJ6wMqDw1U)
+
+*Click the image above to watch the project demo video.*
 
 In addition to the main project, other files and exercises used in class are also included.
 
